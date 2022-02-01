@@ -2,7 +2,7 @@
 
 Hi I'm ***Fatih Mahmut*** from **Turkey**, a passionate self-taught full-stack developer.
 I have passion about to Linux especially ![Debian](https://img.shields.io/badge/-Debian-000?&logo=Debian&logoColor=red) and open-source.
- 
+<br/>
 
 ### Languages
 ***Most Of the programming langauges that I'm using***
@@ -36,3 +36,5 @@ I have passion about to Linux especially ![Debian](https://img.shields.io/badge/
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=fmdndr&count_private=true&show_icons=true&theme=merko" width="80%">
 </p>
+
+ [Saat Teknoloji]: https://www.linkedin.com/company/saatteknoloji%CC%87/ "Optional title for mouse hover"
