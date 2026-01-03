@@ -53,13 +53,13 @@ Senior Software Architect with extensive experience in designing and implementin
 
 ### GitHub Contribution
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fmdndr&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fmdndr&theme=dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fmdndr&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fmdndr&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmdndr&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmdndr&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fmdndr&theme=github-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=fmdndr&theme=github-dark&hide_border=true)
 
 ---
 
