@@ -50,10 +50,42 @@ Senior Software Architect with extensive experience in designing and implementin
 - **OS**: Linux (Debian preferred)
 - **Cloud**: AWS
 - **Containers**: Docker, Kubernetes
+
 ### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github.com/fmdndr/fmdndr/blob/metrics/github-metrics.svg" alt="Metrics" width="100%">
-</div>
+
+<p align="center">
+  <a href="https://github.com/fmdndr">
+    <img src="https://ghchart.rshah.org/40c463/fmdndr" alt="GitHub Contribution Graph" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/fmdndr">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fmdndr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fmdndr&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/fmdndr">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fmdndr&theme=github_dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/fmdndr">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fmdndr&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fmdndr&theme=github_dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fmdndr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/fmdndr?tab=followers">
+    <img src="https://img.shields.io/github/followers/fmdndr?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+</p>
+
 ---
 
 Building robust, scalable, and maintainable software solutions
