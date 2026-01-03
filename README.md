@@ -57,7 +57,7 @@ Senior Software Architect with extensive experience in designing and implementin
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fmdndr&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmdndr&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmdndr&layout=compact&theme=dark&hide_border=true&langs_count=10)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=fmdndr&theme=github-dark&hide_border=true)
 
